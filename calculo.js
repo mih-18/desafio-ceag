@@ -5,7 +5,7 @@ alert("A IDADE DELE É 17 ANOS, É UMA CRIANÇA");
 let idadeCanina = prompt("Qual a idade do cachorrinho?");
 
 
-mostraResultado.textContent = "Resultado: a idade humana do cachorrinho é " + 15;
+mostraResultado.textContent = "Resultado: a idade humana do cachorrinho é " * 7;
 }
 
 //aqui trás as notas do html e tira o conteúdo do texto apenas (sem códigos, fica feio)
